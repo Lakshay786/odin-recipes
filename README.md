@@ -3,4 +3,4 @@ The Odin Project Foundations Course Project 1: Recipes
 
 Hello! 
 
-This project is about a basic recipe website created using HTML.
+This project is about a basic recipes website created using HTML.
